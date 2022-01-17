@@ -1,0 +1,14 @@
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\NumbersToLetters.exe.config
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\obj\Debug\NumbersToLetters.exe
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\obj\Debug\NumbersToLetters.pdb
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\NumbersToLetters.exe
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\NumbersToLetters.pdb
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.abstractions.dll
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.assert.dll
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.core.dll
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.execution.desktop.dll
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.abstractions.xml
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.assert.xml
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.core.xml
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\bin\Debug\xunit.execution.desktop.xml
+C:\Users\amon.kiptoo\Desktop\Amon\NumbersToLetters-master\NumbersToLetters\obj\Debug\Excercise02.csprojResolveAssemblyReference.cache

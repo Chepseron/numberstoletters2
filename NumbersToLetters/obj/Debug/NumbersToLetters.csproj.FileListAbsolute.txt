@@ -1,0 +1,6 @@
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\bin\Debug\NumbersToLetters.exe.config
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\bin\Debug\NumbersToLetters.exe
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\bin\Debug\NumbersToLetters.pdb
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\obj\Debug\NumbersToLetters.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\obj\Debug\NumbersToLetters.exe
+C:\Users\Anonymous\Documents\NetBeansProjects\NumbersToLetters\NumbersToLetters\obj\Debug\NumbersToLetters.pdb
